@@ -1,3 +1,4 @@
 # Data_Analyst
-This is my first reposatory
-Author-Subhajit Datta
+This is my first reposatory.
+<br>
+Author-Subhajit Datta.
